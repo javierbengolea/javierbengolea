@@ -13,8 +13,8 @@
 
 ## 🛠 Habilidades Técnicas
 
-- **Lenguajes de Programación:** JavaScript, Python, HTML, CSS
-- **Frameworks y Librerías:** React, Node.js, Express, Django
+- **Lenguajes de Programación:** JavaScript, Python, Java, HTML, CSS, PHP
+- **Frameworks y Librerías:** React, Node.js, Express, Django, jQuery
 - **Ciencia de Datos:** Pandas, NumPy, Scikit-learn, TensorFlow
 - **Herramientas:** Git, Docker, SQL, NoSQL
 
@@ -28,6 +28,7 @@
 
 - **Correo Electrónico:** [javierbengolea38@gmail.com](mailto:javierbengolea38@gmail.com)
 - **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/tu-usuario)
+- **X:** [Javier Bengolea](https://x.com/BengoleaJa8909)
 
 ---
 
