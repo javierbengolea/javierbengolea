@@ -9,7 +9,7 @@
 - 🌱 Actualmente estoy aprendiendo y trabajando en proyectos de Data Science y Machine Learning.
 - 👨‍💻 Tengo experiencia en desarrollo web Full Stack con tecnologías como JavaScript, React, Node.js, y más.
 - 💬 Pregúntame sobre desarrollo web, ciencia de datos o cualquier cosa relacionada con tecnología.
-- 📫 Puedes contactarme a través de [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com) o en [LinkedIn](https://www.linkedin.com/in/tu-usuario).
+- 📫 Puedes contactarme a través de [javierbengolea38@gmail.com](mailto:javierbengolea38@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/javier-bengolea).
 
 ## 🛠 Habilidades Técnicas
 
