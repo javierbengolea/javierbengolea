@@ -20,8 +20,8 @@
 
 ## 🌟 Proyectos Destacados
 
-1. **[Proyecto 1](https://github.com/tu-usuario/proyecto-1):** Descripción breve del proyecto.
-2. **[Proyecto 2](https://github.com/tu-usuario/proyecto-2):** Descripción breve del proyecto.
+1. **[Proyecto MLOps Steam](https://github.com/javierbengolea/PI_ML_OPS/):** Basados en datasets públicos sobre Steam, se realiza un EDA y se desarrolla un Sistema de Recomendación.
+2. **[Proyecto Accidentes Viales](https://github.com/javierbengolea/proyecto-accidentes-viales):** Estudio de la Accidentología Vial de la Ciudad Autónoma de Buenos Aires con el objetivo de tener una idea clara de este fenómeno para tomar medidas con perspectiva de aligeramiento de estos siniestros.
 3. **[Proyecto 3](https://github.com/tu-usuario/proyecto-3):** Descripción breve del proyecto.
 
 ## 📫 Cómo Contactarme
