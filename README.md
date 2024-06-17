@@ -2,7 +2,7 @@
 
 ### Desarrollador Full Stack y Entusiasta de la Ciencia de Datos
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología, especializado en desarrollo web Full Stack, y actualmente estoy inmerso en el fascinante mundo de la ciencia de datos y el aprendizaje automático.
+Soy un apasionado de Ciencias de la Computación, desarrollador por vocación, descubridor del emocionante mundo del Data Science  y Machine Learning , en el que me siento inmerso con ganas de aplicar mis capacidades, estudios y experiencia, para resolver problemas y aprovechar las posibilidades de este campo cada vez más interesante. 💖💻👨🏻‍🔬🦾
 
 ## 🚀 Sobre mí
 
