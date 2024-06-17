@@ -22,13 +22,12 @@
 
 1. **[Proyecto MLOps Steam](https://github.com/javierbengolea/PI_ML_OPS/):** Basados en datasets públicos sobre Steam, se realiza un EDA y se desarrolla un Sistema de Recomendación.
 2. **[Proyecto Accidentes Viales](https://github.com/javierbengolea/proyecto-accidentes-viales):** Estudio de la Accidentología Vial de la Ciudad Autónoma de Buenos Aires con el objetivo de tener una idea clara de este fenómeno para tomar medidas con perspectiva de aligeramiento de estos siniestros.
-3. **[Proyecto 3](https://github.com/tu-usuario/proyecto-3):** Descripción breve del proyecto.
+3. **[Proyecto Final; Google y Yelp, Subway](https://github.com/Aspirina180mg/PF_DATAPT07):** Proyecto que recorre todo el proceso desde la adquisición de datos hasta crear un Dashboard y con la ayuda de Machine Learning, usando la automatización, con el objetivo de conocer la situación y medir el desempeño. Con los Datasets de Google, Yelp y otras fuentes, obtenemos información sobre Subway y su competencia, se desarrolla un Dashboard con 4 KPI's y con la ayuda del Machine Learning se despliega un modelo predictivo que basado en las características de cada restaurante permite elegir aquellas que puedan lograr una mejora en las ratings, mejora que va acorde a los objetivos de la empresa.
 
 ## 📫 Cómo Contactarme
 
-- **Correo Electrónico:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+- **Correo Electrónico:** [javierbengolea38@gmail.com](mailto:javierbengolea38@gmail.com)
 - **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/tu-usuario)
-- **Twitter:** [@tu_usuario](https://twitter.com/tu_usuario)
 
 ---
 
