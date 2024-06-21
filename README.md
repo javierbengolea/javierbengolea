@@ -2,7 +2,7 @@
 
 ### Desarrollador Full Stack y Entusiasta de la Ciencia de Datos
 
-Soy un apasionado de Ciencias de la Computación, desarrollador por vocación, descubridor del emocionante mundo del Data Science  y Machine Learning , en el que me siento inmerso con ganas de aplicar mis capacidades, estudios y experiencia, para resolver problemas y aprovechar las posibilidades de este campo cada vez más interesante. 💖💻👨🏻‍🔬🦾
+Soy un apasionado de Ciencias de la Computación, desarrollador por vocación, descubridor del emocionante mundo del Data Science  y Machine Learning, en el que me siento inmerso con ganas de aplicar mis capacidades, estudios y experiencia, para resolver problemas y aprovechar las posibilidades de este campo cada vez más interesante. 💖💻👨🏻‍🔬🦾
 
 ## 🚀 Sobre mí
 
