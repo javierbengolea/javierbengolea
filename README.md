@@ -27,8 +27,8 @@ Soy un apasionado de Ciencias de la Computación, desarrollador por vocación, d
 ## 📫 Cómo Contactarme
 
 - **Correo Electrónico:** [javierbengolea38@gmail.com](mailto:javierbengolea38@gmail.com)
-- **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/tu-usuario)
-- **X:** [Javier Bengolea](https://x.com/BengoleaJa8909)
+- **LinkedIn:** [Javier Bengolea](https://www.linkedin.com/in/javier-bengolea/)
+- **X:** [Javier Bengolea](https://x.com/BengoleaDS)
 
 ---
 
